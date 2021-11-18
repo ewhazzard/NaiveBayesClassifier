@@ -1,0 +1,4 @@
+Naive Bayes Classified by Evan Hazzard for IT 340 Fall 2021
+In order to execute this code, run the command 'python3 naive_bayes.py' in the Linux terminals and follow the on-screen prompts to train and test a naive bayes classifier.
+There will appear a selection menu in the terminal for you to navigate the program. Make sure to enter your file names and selections carefully as a wrong input will cause the program to crash. 
+When you attempt to test your data, you will be prompted to provide an output file, this is where the predictions will be displayed, as well as some basic statistics of the data.
